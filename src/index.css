@@ -73,13 +73,14 @@ button{
 .list{
     width: 310px;
     height: 200px;
-    background-color: #478AC9;
+    background-color: #b87532;
     margin-bottom:5px ;
     color: white;
     padding: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    border-radius: 5%;
 }
 .list h3{
     text-align: center;
@@ -91,8 +92,8 @@ button{
     justify-content: space-between;
 }
 .update-btn{
-    background-color: black;
-    color: white;
+    background-color: yellow;
+    color: black;
     border: 0px;
     padding: 10px 20px;
     cursor: pointer;
