@@ -1,9 +1,10 @@
-import CRUDComponent from "./DataFetchingComponent";
+import NavbarMenu from "./Navbar";
+
 
 function App() {
   return (
     <div className="App">
-      <CRUDComponent></CRUDComponent>
+      <NavbarMenu></NavbarMenu>
     </div>
   );
 }
